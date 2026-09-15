@@ -1,0 +1,11 @@
+{
+  "slug": "coin-capsule",
+  "name": "Coin Capsule",
+  "kind": "token",
+  "description": "Package a coin image, story, links, and launch configuration into one capsule.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
