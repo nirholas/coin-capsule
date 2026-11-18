@@ -8,7 +8,7 @@ Package a coin image, story, links, and launch configuration into one capsule.
 
 - Source: https://github.com/nirholas/coin-capsule
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
